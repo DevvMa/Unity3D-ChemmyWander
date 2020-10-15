@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - panelSoal
+  - gelasKimia
+  - levelBottle
+  - indikatorSoal
+  - bubblemin
+  - bubbleplus
+  - materi
+  - jurang
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - musuh
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2088383523
+    locked: 0
+  - name: Midground
+    uniqueID: 3560835673
+    locked: 0
+  - name: Foreground
+    uniqueID: 1116085275
+    locked: 0
+  - name: Player
+    uniqueID: 158044325
+    locked: 0
+  - name: Loots
+    uniqueID: 2337762769
+    locked: 0
