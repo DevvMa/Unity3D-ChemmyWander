@@ -1,5 +1,6 @@
 # Unity3D-ChemmyWander
 Is an underwater 2D platformer game built using Unity3D. There are 3 levels, answer all the quiz to finish a stage. Each level cointain 5 quiz. You only have 3 lives on each level
+Download for windows: https://bit.ly/3kcEFkb
 
 # How to play
 1. Use arrow :arrow_left: :arrow_right: key to move the character 
